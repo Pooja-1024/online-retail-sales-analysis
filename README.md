@@ -281,6 +281,11 @@ This project helps answer important business questions such as:
 * Add customer segmentation analysis.
 
 ---
+## 👩‍💻 Author
+
+**Pooja Sonawane**
+
+---
 
 ## ⭐ Conclusion
 
