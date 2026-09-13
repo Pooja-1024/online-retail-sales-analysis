@@ -1,0 +1,3 @@
+OrderID,CustomerID,FirstName,LastName,TotalAmount
+1,1,Sameer,Khanna,719.98
+2,2,Jane,Smith,49.99

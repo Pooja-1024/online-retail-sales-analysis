@@ -1,0 +1,3 @@
+OrderID,OrderDate,TotalAmount,ProductID,ProductName,Quantity,Price
+3,"2026-03-06 13:13:21",44.98,5,"Fiction Novel",1,14.99
+3,"2026-03-06 13:13:21",44.98,6,"Science Journal",1,29.99
